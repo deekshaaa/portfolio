@@ -14,22 +14,19 @@ class Aboutme extends Component {
               <hr style={{ borderTop: "3px solid #833fb2", width: "50%" }} />
 
               <p>
-                Lorem Ipsum is simply dummy text of the printing and t
-                ypesetting industry. Lorem Ipsum has been the industry's
-                standard dummy text ever since the 1500s, when an unknown
-                printer took a galley of type and scrambled it to make a type
-                specimen book. It has survived not only five centuries, but also
-                the leap into electronic typesetting, remaining essent ially
-                unchanged.
+                20 year old undergraduate with eye-catching writing skills.
+                Worked under several foundations to provied and make best use of
+                skills. Technical writer, visionary, results-driven, equipped
+                with verifiable success in the areas of content writing, web
+                designing, and programming. Strong ability to utilize a wide
+                range of transferable skills and knowledge to consistently
+                exceed expectations.
               </p>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and t
-                ypesetting industry. Lorem Ipsum has been the industry's
-                standard dummy text ever since the 1500s, when an unknown
-                printer took a galley of type and scrambled it to make a type
-                specimen book. It has survived not only five centuries, but also
-                the leap into electronic typesetting, remaining essent ially
-                unchanged.
+                Dedicated to improving knowledge and experimenting in the
+                interested fields while pursuing a degree. Looking forward to
+                various oppurtunities to explore in the field of science. Has
+                endearing interest in field of AI.
               </p>
             </div>
           </Cell>

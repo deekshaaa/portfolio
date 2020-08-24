@@ -16,10 +16,7 @@ class Contact extends Component {
               style={{ height: "250px" }}
             />
             <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-              blah blaj balh lkllhjhh hkjh jkjhjh hjkh jhjkh kjhk j khjkhjkh jh
-              kjhj khh hjjkh kj jhjkhkjhkjh kjh jkh kjkjh jk hjkh kjhkhkjhjh kjh
-              khjkhjh h jjkhjkhjh k hjk jkjhkj hj khjhkh kjh jkhj this was a
-              dummy text
+              This is Deeksha a 20 year old undergraduate, Web developer and part time content writer.
             </p>
           </Cell>
 
@@ -39,10 +36,11 @@ class Contact extends Component {
 
               </ListItem>
               <ListItem>
-                <ListItemContent icon="person">Aaron Paul</ListItemContent>
+                <ListItemContent style={{fontSize: '25px' , fontFamily: 'Anton'}} ><i className="fa fa-envelope" aria-hidden="true" />
+                    deekshagarg2000@gmail.com</ListItemContent>
               </ListItem>
               <ListItem>
-                <ListItemContent icon="person">Bob Odenkirk</ListItemContent>
+                <ListItemContent style={{fontSize: '25px' , fontFamily: 'Anton'}}></ListItemContent>
               </ListItem>
             </List>
 
