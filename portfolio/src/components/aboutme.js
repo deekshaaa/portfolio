@@ -26,7 +26,7 @@ class Aboutme extends Component {
                 Dedicated to improving knowledge and experimenting in the
                 interested fields while pursuing a degree. Looking forward to
                 various oppurtunities to explore in the field of science. Has
-                endearing interest in field of AI.
+                endearing eye for AI.
               </p>
             </div>
           </Cell>
